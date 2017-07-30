@@ -28,3 +28,11 @@ HenCoder 绘制 3 练习项目
 ![](images/project_sample.png)
 
 练习做完，绘制第三期（文字的绘制）的内容也就掌握得差不多了。
+
+### 作业效果
+
+![measureText](images/device-2017-07-30-measure-text.png)
+
+![textBounds](images/device-2017-07-30-text-bounds.png)
+
+![font-metrics](images/device-2017-07-30-font-metrics.png)
